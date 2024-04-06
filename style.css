@@ -54,13 +54,14 @@ body {
 
 .banner h1 {
   color: var(--clr-neutral-white);
-  font-weight: 700;
+  font-weight: 600;
   padding-bottom: 0.4rem;
 }
 
 .banner h2 {
   color: var(--clr-primary-green);
   font-weight: 600;
+  font-size: 1.2rem;
   padding-bottom: 1.5rem;
 }
 
